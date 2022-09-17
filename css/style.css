@@ -10,7 +10,12 @@ body {
   font-size: 26px;
   line-height: 1.19;
 }
-
+.black {
+  color: #000;
+}
+.white {
+  color: #fff;
+}
 .nav-link {
   text-decoration: none;
   color: #212121;
@@ -61,4 +66,23 @@ body {
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
+}
+h1 {
+  font-family: "Roboto";
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.36;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+}
+.order-button {
+  background: #2196f3;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.87;
+  color: #fff;
 }
