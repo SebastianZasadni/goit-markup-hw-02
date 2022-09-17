@@ -88,3 +88,16 @@ h1 {
   width: 200px;
   height: 50px;
 }
+.lorem-header {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+  text-transform: uppercase;
+}
+.lorem-describe {
+  color: #757575;
+  font-family: "Roboto";
+  font-size: 14px;
+  line-height: 1.71;
+}
