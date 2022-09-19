@@ -24,7 +24,6 @@ footer {
 .nav-link {
   text-decoration: none;
   color: #212121;
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -33,7 +32,6 @@ footer {
 .nav-link:focus {
   text-decoration: none;
   color: #2196f3;
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -42,7 +40,6 @@ footer {
 .nav-link:hover {
   text-decoration: none;
   color: #2196f3;
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -51,7 +48,6 @@ footer {
 .contact-link {
   text-decoration: none;
   color: #757575;
-  font-family: "Roboto";
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -59,7 +55,6 @@ footer {
 .contact-link:hover {
   text-decoration: none;
   color: #2196f3;
-  font-family: "Roboto";
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -67,14 +62,12 @@ footer {
 .contact-link:focus {
   text-decoration: none;
   color: #2196f3;
-  font-family: "Roboto";
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
 }
 address {
   color: #fff;
-  font-family: "Roboto";
   font-size: 14px;
   line-height: 1.71;
 }
@@ -82,7 +75,6 @@ address {
   background-color: #2f303a;
 }
 h1 {
-  font-family: "Roboto";
   font-weight: 900;
   font-size: 44px;
   line-height: 1.36;
@@ -94,7 +86,6 @@ h1 {
   background-color: #2196f3;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   border-radius: 4px;
-  font-family: "Roboto";
   font-weight: 700;
   font-size: 16px;
   line-height: 1.87;
@@ -104,7 +95,6 @@ h1 {
   cursor: pointer;
 }
 .lorem-header {
-  font-family: "Roboto";
   font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
@@ -112,12 +102,10 @@ h1 {
 }
 .lorem-describe {
   color: #757575;
-  font-family: "Roboto";
   font-size: 14px;
   line-height: 1.71;
 }
 .section-header {
-  font-family: "Roboto";
   font-weight: 700;
   font-size: 36px;
   line-height: 1.16;
@@ -133,7 +121,6 @@ h1 {
   border-radius: 0px 0px 4px 4px;
 }
 .teammate-name {
-  font-family: "Roboto";
   font-weight: 500;
   font-size: 16px;
   line-height: 1.18;
@@ -141,7 +128,6 @@ h1 {
 }
 .job-title {
   color: #757575;
-  font-family: "Roboto";
   font-size: 16px;
   line-height: 1.18;
   text-align: center;
@@ -149,7 +135,6 @@ h1 {
 .portfolio-button {
   background-color: #f5f4fa;
   border-radius: 4px;
-  font-family: "Roboto";
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
@@ -157,7 +142,6 @@ h1 {
   cursor: pointer;
 }
 .portfolio-button:hover {
-  font-family: "Roboto";
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
@@ -170,7 +154,6 @@ h1 {
   border-radius: 4px;
 }
 .portfolio-button:focus {
-  font-family: "Roboto";
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
@@ -183,14 +166,12 @@ h1 {
   border-radius: 4px;
 }
 .project-header {
-  font-family: "Roboto";
   font-weight: 700;
   font-size: 18px;
   line-height: 2;
 }
 .project-type {
   color: #757575;
-  font-family: "Roboto";
   font-size: 16px;
   line-height: 1.87;
 }
