@@ -24,11 +24,11 @@ footer {
 }
 .nav-link {
   text-decoration: none;
-  color: #212121;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
+  color: #212121;
 }
 .nav-link:focus {
   text-decoration: none;
@@ -112,7 +112,7 @@ h1 {
   line-height: 1.16;
   text-align: center;
 }
-.ourteam-section {
+section.bottom {
   background-color: #f5f4fa;
 }
 .teammate-box {
