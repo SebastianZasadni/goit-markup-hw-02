@@ -99,6 +99,7 @@ h1 {
   padding: 10px 41px 10px 42px;
   border: 0px;
   cursor: pointer;
+  letter-spacing: 0.06em;
 }
 .lorem-header {
   font-weight: 700;
